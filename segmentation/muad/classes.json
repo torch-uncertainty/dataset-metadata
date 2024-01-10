@@ -1,0 +1,2042 @@
+[
+    {
+        "name": "bots",
+        "id": 0,
+        "train_id": 0,
+        "object_id": [
+            50,
+            0,
+            150
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_lights_head",
+        "id": 1,
+        "train_id": 6,
+        "object_id": [
+            0,
+            0,
+            255
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "mailbox",
+        "id": 2,
+        "train_id": 255,
+        "object_id": [
+            200,
+            50,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "tram_tracks",
+        "id": 3,
+        "train_id": 0,
+        "object_id": [
+            130,
+            90,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "cyclist",
+        "id": 4,
+        "train_id": 12,
+        "object_id": [
+            250,
+            50,
+            255
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_lights_bulb_yellow",
+        "id": 5,
+        "train_id": 6,
+        "object_id": [
+            0,
+            0,
+            253
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "barbacue",
+        "id": 6,
+        "train_id": 255,
+        "object_id": [
+            200,
+            60,
+            200
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "vase",
+        "id": 7,
+        "train_id": 255,
+        "object_id": [
+            145,
+            190,
+            25
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "poster",
+        "id": 8,
+        "train_id": 255,
+        "object_id": [
+            90,
+            0,
+            90
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "yellow_barrel",
+        "id": 9,
+        "train_id": 255,
+        "object_id": [
+            255,
+            0,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "vegetation",
+        "id": 10,
+        "train_id": 8,
+        "object_id": [
+            0,
+            255,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "vegetationv2",
+        "id": 10,
+        "train_id": 8,
+        "object_id": [
+            227,
+            33,
+            77
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "motorcycle",
+        "id": 11,
+        "train_id": 17,
+        "object_id": [
+            50,
+            100,
+            100
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "house",
+        "id": 12,
+        "train_id": 2,
+        "object_id": [
+            130,
+            0,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_helmet_green",
+        "id": 13,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            205
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "electric_post_insulator_break",
+        "id": 14,
+        "train_id": 255,
+        "object_id": [
+            100,
+            0,
+            150
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "uninteresting",
+        "id": 15,
+        "train_id": 255,
+        "object_id": [
+            1,
+            1,
+            1
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "wood",
+        "id": 16,
+        "train_id": 255,
+        "object_id": [
+            201,
+            100,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_scaffold",
+        "id": 17,
+        "train_id": 255,
+        "object_id": [
+            112,
+            132,
+            112
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "car",
+        "id": 18,
+        "train_id": 13,
+        "object_id": [
+            100,
+            75,
+            0
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "hammock",
+        "id": 19,
+        "train_id": 255,
+        "object_id": [
+            50,
+            125,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_cord",
+        "id": 20,
+        "train_id": 255,
+        "object_id": [
+            22,
+            82,
+            152
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "rock",
+        "id": 21,
+        "train_id": 255,
+        "object_id": [
+            255,
+            255,
+            150
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "suitcase",
+        "id": 22,
+        "train_id": 255,
+        "object_id": [
+            210,
+            135,
+            246
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "construction_fence",
+        "id": 23,
+        "train_id": 4,
+        "object_id": [
+            50,
+            80,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "garbage_bag",
+        "id": 24,
+        "train_id": 20,
+        "object_id": [
+            130,
+            130,
+            130
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "bicycle",
+        "id": 25,
+        "train_id": 18,
+        "object_id": [
+            150,
+            10,
+            60
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "tree_pit",
+        "id": 26,
+        "train_id": 9,
+        "object_id": [
+            0,
+            255,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "electric_power",
+        "id": 27,
+        "train_id": 255,
+        "object_id": [
+            50,
+            110,
+            10
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_helmet_white",
+        "id": 28,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            201
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "wind_direction",
+        "id": 29,
+        "train_id": 255,
+        "object_id": [
+            100,
+            10,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_03_pink",
+        "id": 30,
+        "train_id": 255,
+        "object_id": [
+            0,
+            81,
+            103
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "segway",
+        "id": 31,
+        "train_id": 255,
+        "object_id": [
+            20,
+            80,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "lane_bike",
+        "id": 32,
+        "train_id": 0,
+        "object_id": [
+            200,
+            150,
+            250
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "crosswalk",
+        "id": 33,
+        "train_id": 0,
+        "object_id": [
+            150,
+            255,
+            255
+        ],
+        "instance": false,
+        "road_layer": true
+    },
+    {
+        "name": "baby_cart",
+        "id": 34,
+        "train_id": 255,
+        "object_id": [
+            210,
+            130,
+            240
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "pile_of_sand",
+        "id": 35,
+        "train_id": 255,
+        "object_id": [
+            35,
+            100,
+            40
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_signs_poles_or_structure",
+        "id": 36,
+        "train_id": 5,
+        "object_id": [
+            255,
+            150,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_03_yellow",
+        "id": 37,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            103
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "parking_area",
+        "id": 38,
+        "train_id": 0,
+        "object_id": [
+            0,
+            50,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "dog",
+        "id": 39,
+        "train_id": 255,
+        "object_id": [
+            200,
+            150,
+            255
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "wheel_chair",
+        "id": 40,
+        "train_id": 255,
+        "object_id": [
+            210,
+            135,
+            247
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_03_green",
+        "id": 41,
+        "train_id": 255,
+        "object_id": [
+            0,
+            85,
+            103
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "garbage_road",
+        "id": 42,
+        "train_id": 0,
+        "object_id": [
+            50,
+            50,
+            51
+        ],
+        "instance": false,
+        "road_layer": true
+    },
+    {
+        "name": "concrete_benchs",
+        "id": 43,
+        "train_id": 255,
+        "object_id": [
+            150,
+            10,
+            110
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "umbrella_garden",
+        "id": 44,
+        "train_id": 255,
+        "object_id": [
+            200,
+            180,
+            20
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "bus",
+        "id": 45,
+        "train_id": 15,
+        "object_id": [
+            100,
+            100,
+            150
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_04",
+        "id": 46,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            104
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "pool",
+        "id": 47,
+        "train_id": 255,
+        "object_id": [
+            140,
+            200,
+            170
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "building0",
+        "id": 48,
+        "train_id": 2,
+        "object_id": [
+            150,
+            0,
+            250
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "building",
+        "id": 48,
+        "train_id": 2,
+        "object_id": [
+            150,
+            0,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "buildingv2",
+        "id": 48,
+        "train_id": 2,
+        "object_id": [
+            54,
+            48,
+            163
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "buildingv3",
+        "id": 48,
+        "train_id": 2,
+        "object_id": [
+            96,
+            111,
+            44
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "buildingv4",
+        "id": 48,
+        "train_id": 2,
+        "object_id": [
+            154,
+            239,
+            54
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "buildingv5",
+        "id": 48,
+        "train_id": 2,
+        "object_id": [
+            148,
+            249,
+            102
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "buildingv6",
+        "id": 48,
+        "train_id": 2,
+        "object_id": [
+            183,
+            83,
+            159
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "truck",
+        "id": 49,
+        "train_id": 14,
+        "object_id": [
+            50,
+            100,
+            200
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "road_lines",
+        "id": 50,
+        "train_id": 0,
+        "object_id": [
+            50,
+            200,
+            10
+        ],
+        "instance": false,
+        "road_layer": true
+    },
+    {
+        "name": "lamp",
+        "id": 51,
+        "train_id": 5,
+        "object_id": [
+            30,
+            190,
+            100
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "water",
+        "id": 52,
+        "train_id": 255,
+        "object_id": [
+            130,
+            160,
+            210
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "wall",
+        "id": 53,
+        "train_id": 3,
+        "object_id": [
+            230,
+            230,
+            230
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "portable_bathroom",
+        "id": 54,
+        "train_id": 255,
+        "object_id": [
+            155,
+            155,
+            250
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_post_cone",
+        "id": 55,
+        "train_id": 255,
+        "object_id": [
+            110,
+            130,
+            110
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "armchair",
+        "id": 56,
+        "train_id": 255,
+        "object_id": [
+            20,
+            180,
+            44
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "ego_car",
+        "id": 57,
+        "train_id": 13,
+        "object_id": [
+            5,
+            5,
+            5
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "kerb_stone",
+        "id": 58,
+        "train_id": 1,
+        "object_id": [
+            20,
+            40,
+            80
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "air_conditioning",
+        "id": 59,
+        "train_id": 255,
+        "object_id": [
+            98,
+            110,
+            10
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_03_red",
+        "id": 60,
+        "train_id": 255,
+        "object_id": [
+            0,
+            83,
+            103
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "press_box",
+        "id": 61,
+        "train_id": 255,
+        "object_id": [
+            90,
+            150,
+            230
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "biker",
+        "id": 62,
+        "train_id": 12,
+        "object_id": [
+            250,
+            100,
+            255
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "table",
+        "id": 63,
+        "train_id": 255,
+        "object_id": [
+            10,
+            255,
+            140
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "tv_antenna",
+        "id": 64,
+        "train_id": 2,
+        "object_id": [
+            100,
+            10,
+            200
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "beacon_light",
+        "id": 65,
+        "train_id": 255,
+        "object_id": [
+            200,
+            10,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "parking_bicycles",
+        "id": 66,
+        "train_id": 4,
+        "object_id": [
+            0,
+            0,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "longitudinal_crack",
+        "id": 67,
+        "train_id": 255,
+        "object_id": [
+            213,
+            128,
+            0
+        ],
+        "instance": true,
+        "road_layer": true
+    },
+    {
+        "name": "vending_machine",
+        "id": 68,
+        "train_id": 255,
+        "object_id": [
+            31,
+            31,
+            181
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "tricycle",
+        "id": 69,
+        "train_id": 18,
+        "object_id": [
+            216,
+            0,
+            89
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "walker",
+        "id": 70,
+        "train_id": 11,
+        "object_id": [
+            210,
+            135,
+            245
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "chair",
+        "id": 71,
+        "train_id": 255,
+        "object_id": [
+            5,
+            95,
+            10
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_03_turquoise",
+        "id": 72,
+        "train_id": 255,
+        "object_id": [
+            0,
+            86,
+            103
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "swing",
+        "id": 73,
+        "train_id": 255,
+        "object_id": [
+            130,
+            70,
+            240
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "electric_post_conductor",
+        "id": 74,
+        "train_id": 255,
+        "object_id": [
+            116,
+            116,
+            116
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_helmet_blue",
+        "id": 75,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            204
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "umbrella",
+        "id": 76,
+        "train_id": 255,
+        "object_id": [
+            210,
+            135,
+            248
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "ball",
+        "id": 77,
+        "train_id": 255,
+        "object_id": [
+            210,
+            135,
+            249
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "sidewalk",
+        "id": 78,
+        "train_id": 1,
+        "object_id": [
+            150,
+            200,
+            130
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_helmet_red",
+        "id": 79,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            203
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "jersey_barrier",
+        "id": 80,
+        "train_id": 255,
+        "object_id": [
+            255,
+            150,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_signs",
+        "id": 81,
+        "train_id": 7,
+        "object_id": [
+            255,
+            0,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_signsv2",
+        "id": 81,
+        "train_id": 7,
+        "object_id": [
+            127,
+            76,
+            224
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "terrace",
+        "id": 82,
+        "train_id": 255,
+        "object_id": [
+            2,
+            10,
+            13
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "container",
+        "id": 83,
+        "train_id": 255,
+        "object_id": [
+            255,
+            255,
+            200
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "transversal_crack",
+        "id": 84,
+        "train_id": 255,
+        "object_id": [
+            213,
+            213,
+            0
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "kerb_rising_edge",
+        "id": 85,
+        "train_id": 1,
+        "object_id": [
+            20,
+            40,
+            90
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_contrainer",
+        "id": 86,
+        "train_id": 255,
+        "object_id": [
+            113,
+            133,
+            113
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_concrete",
+        "id": 87,
+        "train_id": 0,
+        "object_id": [
+            20,
+            80,
+            150
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "train",
+        "id": 88,
+        "train_id": 16,
+        "object_id": [
+            30,
+            80,
+            230
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "dog_house",
+        "id": 89,
+        "train_id": 2,
+        "object_id": [
+            50,
+            110,
+            240
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "water_tank",
+        "id": 90,
+        "train_id": 255,
+        "object_id": [
+            255,
+            100,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "painting",
+        "id": 91,
+        "train_id": 255,
+        "object_id": [
+            45,
+            190,
+            240
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "playground",
+        "id": 92,
+        "train_id": 255,
+        "object_id": [
+            80,
+            80,
+            80
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "bench",
+        "id": 93,
+        "train_id": 255,
+        "object_id": [
+            0,
+            130,
+            150
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_03_orange",
+        "id": 94,
+        "train_id": 255,
+        "object_id": [
+            0,
+            84,
+            103
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "plumbing",
+        "id": 95,
+        "train_id": 255,
+        "object_id": [
+            190,
+            150,
+            230
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "pergola_garden",
+        "id": 96,
+        "train_id": 255,
+        "object_id": [
+            150,
+            200,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "vegetation_road",
+        "id": 97,
+        "train_id": 0,
+        "object_id": [
+            0,
+            255,
+            254
+        ],
+        "instance": false,
+        "road_layer": true
+    },
+    {
+        "name": "stairs",
+        "id": 98,
+        "train_id": 255,
+        "object_id": [
+            90,
+            10,
+            90
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_02",
+        "id": 99,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            102
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "sunshades",
+        "id": 100,
+        "train_id": 255,
+        "object_id": [
+            255,
+            50,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "van",
+        "id": 101,
+        "train_id": 14,
+        "object_id": [
+            185,
+            255,
+            75
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "railings",
+        "id": 102,
+        "train_id": 255,
+        "object_id": [
+            100,
+            50,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "kickbike",
+        "id": 103,
+        "train_id": 255,
+        "object_id": [
+            185,
+            255,
+            46
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "bin",
+        "id": 104,
+        "train_id": 255,
+        "object_id": [
+            0,
+            50,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "scooter_child",
+        "id": 105,
+        "train_id": 255,
+        "object_id": [
+            225,
+            35,
+            25
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_stock",
+        "id": 106,
+        "train_id": 255,
+        "object_id": [
+            25,
+            85,
+            155
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_cameras",
+        "id": 107,
+        "train_id": 255,
+        "object_id": [
+            50,
+            150,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_pallet",
+        "id": 108,
+        "train_id": 255,
+        "object_id": [
+            111,
+            131,
+            111
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "road",
+        "id": 109,
+        "train_id": 0,
+        "object_id": [
+            150,
+            150,
+            200
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "electric_post_insulator",
+        "id": 110,
+        "train_id": 255,
+        "object_id": [
+            100,
+            0,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_signs_back",
+        "id": 111,
+        "train_id": 255,
+        "object_id": [
+            0,
+            200,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "decoration_garden",
+        "id": 112,
+        "train_id": 255,
+        "object_id": [
+            250,
+            100,
+            130
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "garbage",
+        "id": 113,
+        "train_id": 255,
+        "object_id": [
+            50,
+            50,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_lights_bulb_green",
+        "id": 114,
+        "train_id": 6,
+        "object_id": [
+            0,
+            0,
+            252
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "cat_ete",
+        "id": 115,
+        "train_id": 255,
+        "object_id": [
+            5,
+            50,
+            150
+        ],
+        "instance": false,
+        "road_layer": true
+    },
+    {
+        "name": "marquees",
+        "id": 116,
+        "train_id": 255,
+        "object_id": [
+            180,
+            90,
+            30
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "asphalt_hole",
+        "id": 117,
+        "train_id": 0,
+        "object_id": [
+            213,
+            128,
+            213
+        ],
+        "instance": false,
+        "road_layer": true
+    },
+    {
+        "name": "alley",
+        "id": 118,
+        "train_id": 255,
+        "object_id": [
+            10,
+            80,
+            15
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "bridge",
+        "id": 119,
+        "train_id": 255,
+        "object_id": [
+            30,
+            90,
+            210
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "hangar_airport",
+        "id": 120,
+        "train_id": 255,
+        "object_id": [
+            150,
+            0,
+            150
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "billboard",
+        "id": 121,
+        "train_id": 255,
+        "object_id": [
+            255,
+            100,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "barrel",
+        "id": 122,
+        "train_id": 255,
+        "object_id": [
+            205,
+            255,
+            205
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "toy",
+        "id": 123,
+        "train_id": 255,
+        "object_id": [
+            60,
+            30,
+            255
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "subway",
+        "id": 124,
+        "train_id": 255,
+        "object_id": [
+            200,
+            225,
+            90
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "plane",
+        "id": 125,
+        "train_id": 255,
+        "object_id": [
+            35,
+            65,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "food_machine",
+        "id": 126,
+        "train_id": 255,
+        "object_id": [
+            255,
+            128,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "runway",
+        "id": 127,
+        "train_id": 255,
+        "object_id": [
+            50,
+            50,
+            200
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "fire",
+        "id": 128,
+        "train_id": 255,
+        "object_id": [
+            255,
+            0,
+            1
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "phone_booth",
+        "id": 129,
+        "train_id": 255,
+        "object_id": [
+            30,
+            30,
+            180
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "skateboard",
+        "id": 130,
+        "train_id": 255,
+        "object_id": [
+            185,
+            200,
+            185
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "box",
+        "id": 131,
+        "train_id": 255,
+        "object_id": [
+            110,
+            90,
+            225
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "polished_aggregated",
+        "id": 132,
+        "train_id": 0,
+        "object_id": [
+            213,
+            0,
+            0
+        ],
+        "instance": true,
+        "road_layer": true
+    },
+    {
+        "name": "fire_extinguisher",
+        "id": 133,
+        "train_id": 255,
+        "object_id": [
+            100,
+            80,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "people",
+        "id": 134,
+        "train_id": 11,
+        "object_id": [
+            250,
+            150,
+            255
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "traffic_lights_bulb_red",
+        "id": 135,
+        "train_id": 6,
+        "object_id": [
+            0,
+            0,
+            254
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "sewer_road",
+        "id": 136,
+        "train_id": 0,
+        "object_id": [
+            255,
+            0,
+            1
+        ],
+        "instance": false,
+        "road_layer": true
+    },
+    {
+        "name": "traffic_lights_poles",
+        "id": 137,
+        "train_id": 5,
+        "object_id": [
+            0,
+            255,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "poles",
+        "id": 137,
+        "train_id": 5,
+        "object_id": [
+            130,
+            87,
+            52
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "polesv2",
+        "id": 137,
+        "train_id": 5,
+        "object_id": [
+            83,
+            242,
+            188
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "fire_hydrant",
+        "id": 138,
+        "train_id": 255,
+        "object_id": [
+            255,
+            255,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "terrain",
+        "id": 139,
+        "train_id": 9,
+        "object_id": [
+            150,
+            100,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "tools",
+        "id": 140,
+        "train_id": 255,
+        "object_id": [
+            160,
+            25,
+            230
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_01",
+        "id": 141,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            101
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "safety_vest_03_blue",
+        "id": 142,
+        "train_id": 255,
+        "object_id": [
+            0,
+            82,
+            103
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "sewer",
+        "id": 143,
+        "train_id": 0,
+        "object_id": [
+            255,
+            0,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "stony_floor",
+        "id": 144,
+        "train_id": 255,
+        "object_id": [
+            150,
+            100,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "electric_post",
+        "id": 145,
+        "train_id": 255,
+        "object_id": [
+            100,
+            0,
+            200
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_helmet_yellow",
+        "id": 146,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            200
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "carpet",
+        "id": 147,
+        "train_id": 255,
+        "object_id": [
+            230,
+            30,
+            130
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "sky",
+        "id": 148,
+        "train_id": 10,
+        "object_id": [
+            0,
+            0,
+            0
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "trash_can",
+        "id": 149,
+        "train_id": 20,
+        "object_id": [
+            255,
+            150,
+            150
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "pivot",
+        "id": 150,
+        "train_id": 255,
+        "object_id": [
+            135,
+            75,
+            180
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "fences",
+        "id": 151,
+        "train_id": 4,
+        "object_id": [
+            150,
+            200,
+            250
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "construction_helment_orange",
+        "id": 152,
+        "train_id": 255,
+        "object_id": [
+            0,
+            80,
+            202
+        ],
+        "instance": true,
+        "road_layer": false
+    },
+    {
+        "name": "street_lights",
+        "id": 153,
+        "train_id": 5,
+        "object_id": [
+            0,
+            175,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "bird",
+        "id": 154,
+        "train_id": 255,
+        "object_id": [
+            255,
+            175,
+            110
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "Stand food",
+        "id": 155,
+        "train_id": 19,
+        "object_id": [
+            50,
+            100,
+            50
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "Moose",
+        "id": 156,
+        "train_id": 19,
+        "object_id": [
+            200,
+            50,
+            200
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "Deer",
+        "id": 157,
+        "train_id": 19,
+        "object_id": [
+            50,
+            100,
+            144
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "Bear",
+        "id": 158,
+        "train_id": 19,
+        "object_id": [
+            200,
+            50,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    },
+    {
+        "name": "Cow",
+        "id": 159,
+        "train_id": 19,
+        "object_id": [
+            100,
+            50,
+            100
+        ],
+        "instance": false,
+        "road_layer": false
+    }
+]
